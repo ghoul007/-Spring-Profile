@@ -1,0 +1,6 @@
+
+server:
+  port: 8888
+
+service-config:
+  b: 222

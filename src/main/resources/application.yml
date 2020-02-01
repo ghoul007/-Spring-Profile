@@ -1,0 +1,10 @@
+#spring:
+#  profiles:
+#    active: dev
+
+server:
+  port: 8888
+
+service-config:
+  a: 1
+  b: 2

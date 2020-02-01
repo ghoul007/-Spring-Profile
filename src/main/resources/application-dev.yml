@@ -1,0 +1,7 @@
+
+server:
+  port: 8888
+
+service-config:
+  a: 11
+  b: 22
